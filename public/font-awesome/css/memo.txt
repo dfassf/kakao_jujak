@@ -1,0 +1,4 @@
+brands.min.css
+fontawesome.css
+regular.css
+solid.css 합침
